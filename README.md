@@ -48,6 +48,11 @@ Selain berisi notebook praktikum dan tugas, repository ini juga mendokumentasika
 | 5 | Visualisasi Data | [📓 Notebook](./Pertemuan5_MochamadRochmatullah_240401010041.ipynb) |
 | 6 | Persiapan Data | [📓 Notebook](./Pertemuan6_MochamadRochmatullah_240401010041.ipynb) |
 | 7 | Pengantar Machine Learning: Regresi Linear | [📓 Notebook](./Pertemuan7_MochamadRochmatullah_240401010041.ipynb) |
+| 9 | Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees, Confusion Matrix, Accuracy, Precision, Recall, dan F1-Score. | [📓 Notebook](./Pertemuan9_MochamadRochmatullah_240401010041.ipynb) |
+| 10 | Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset. | [📓 Notebook](./Pertemuan10_MochamadRochmatullah_240401010041.ipynb) |
+| 11 | Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow | [📓 Notebook](./Pertemuan11_MochamadRochmatullah_240401010041.ipynb) |
+| 12 | Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis) dan konsep Collaborative/Content-Based Filtering. | [📓 Notebook](./Pertemuan12_MochamadRochmatullah_240401010041.ipynb) |
+| 13 | Pengantar Deep Learning & NLP Dasar: konsep dasar Artificial Neural Network, serta pemrosesan teks sederhana dengan TF-IDF untuk analisis sentimen.. | [📓 Notebook](./Pertemuan12_MochamadRochmatullah_240401010041.ipynb) |
 
 ---
 
