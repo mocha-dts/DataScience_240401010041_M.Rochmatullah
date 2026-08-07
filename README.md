@@ -52,7 +52,7 @@ Selain berisi notebook praktikum dan tugas, repository ini juga mendokumentasika
 | 10 | Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset. | [📓 Notebook](./Pertemuan10_MochamadRochmatullah_240401010041.ipynb) |
 | 11 | Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow | [📓 Notebook](./Pertemuan11_MochamadRochmatullah_240401010041.ipynb) |
 | 12 | Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis) dan konsep Collaborative/Content-Based Filtering. | [📓 Notebook](./Pertemuan12_MochamadRochmatullah_240401010041.ipynb) |
-| 13 | Pengantar Deep Learning & NLP Dasar: konsep dasar Artificial Neural Network, serta pemrosesan teks sederhana dengan TF-IDF untuk analisis sentimen.. | [📓 Notebook](./Pertemuan12_MochamadRochmatullah_240401010041.ipynb) |
+| 13 | Pengantar Deep Learning & NLP Dasar: konsep dasar Artificial Neural Network, serta pemrosesan teks sederhana dengan TF-IDF untuk analisis sentimen.. | [📓 Notebook](./Pertemuan13_MochamadRochmatullah_240401010041.ipynb) |
 
 ---
 
@@ -123,11 +123,17 @@ Contoh:
 
 ---
 
-# 📝 Kesimpulan Perjalanan Belajar Data Science (Pertemuan 1–7)
+# 📝 Kesimpulan Perjalanan Belajar Data Science (Pertemuan 1–13)
 
-Pembelajaran Data Science dari pertemuan 1 hingga 7 memberikan pemahaman yang komprehensif mengenai tahapan pengolahan data, mulai dari pengenalan konsep Data Science, penggunaan Python sebagai alat analisis, manipulasi data menggunakan NumPy dan Pandas, hingga visualisasi data menggunakan Matplotlib dan Seaborn. Setiap materi saling terhubung dan menjadi fondasi penting dalam proses analisis data yang sistematis.
+Seluruh rangkaian Aktivitas Hands-on Modul 1–13 memberikan pemahaman yang komprehensif mengenai proses pengolahan data, analisis data, hingga pembangunan model pembelajaran mesin (machine learning). Setiap modul saling berkaitan sehingga membentuk alur kerja data science yang utuh, mulai dari memperoleh data, membersihkan data, melakukan eksplorasi, membangun model, hingga mengevaluasi hasilnya.
 
-Selain itu, pembelajaran ini juga memperkenalkan konsep dasar Machine Learning sebagai salah satu penerapan utama Data Science. Melalui berbagai praktikum dan latihan, saya memperoleh pengalaman dalam mengolah data mentah menjadi informasi yang bermakna serta memahami bagaimana data dapat digunakan untuk mendukung pengambilan keputusan. Pengetahuan dan keterampilan yang diperoleh selama tujuh pertemuan ini menjadi dasar yang kuat untuk mempelajari topik Data Science yang lebih lanjut di masa mendatang.
+Pada tahap awal, proses pengenalan dataset dan penggunaan library Python seperti Pandas, NumPy, Matplotlib, dan Scikit-learn menjadi fondasi penting dalam pengolahan data. Selanjutnya dilakukan data preprocessing yang meliputi penanganan missing value, transformasi tipe data, encoding variabel kategorikal, normalisasi, serta pemilihan atribut sehingga data menjadi lebih siap digunakan dalam analisis.
+
+Melalui Exploratory Data Analysis (EDA), diperoleh pemahaman mengenai karakteristik dataset, distribusi data, hubungan antarvariabel, serta pola-pola yang sebelumnya tidak terlihat. Visualisasi data menggunakan grafik histogram, boxplot, scatter plot, dan heatmap sangat membantu dalam menemukan tren maupun potensi permasalahan pada data.
+
+Pengembangan sistem rekomendasi dilakukan menggunakan dua pendekatan, yaitu Association Rules dan Content-Based Filtering. Kedua metode menunjukkan bahwa rekomendasi dapat dihasilkan dari sudut pandang yang berbeda. Association Rules memanfaatkan pola pembelian atau penggunaan bersama, sedangkan Content-Based Filtering memanfaatkan kesamaan karakteristik produk. Perbandingan kedua metode menunjukkan bahwa keduanya dapat saling melengkapi sehingga pendekatan hybrid menjadi solusi yang lebih baik untuk meningkatkan kualitas rekomendasi.
+
+Secara keseluruhan, seluruh aktivitas hands-on membuktikan bahwa keberhasilan analisis data tidak hanya ditentukan oleh algoritma yang digunakan, tetapi juga sangat dipengaruhi oleh kualitas data, proses preprocessing, pemilihan fitur, serta interpretasi hasil analisis. Setiap tahapan memiliki kontribusi yang sama pentingnya dalam menghasilkan informasi yang akurat dan dapat dijadikan dasar pengambilan keputusan.
 
 ---
 
